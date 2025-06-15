@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://adultinghub.blogspot.com/` + encodeURI(path as string)
+					`https://slickquiver.com/gf5704gfp?key=d6cb3c2d2b81544a4319ec4e7716877c`
 				}`,
 			},
 		};
